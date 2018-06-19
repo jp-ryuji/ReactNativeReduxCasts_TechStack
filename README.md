@@ -8,4 +8,4 @@ This repository is based on [The Complete React Native and Redux Course](https:/
 
 ![redux store image_02](https://github.com/jp-ryuji/ReactNativeReduxCasts_TechStack/blob/master/images/redux_store_image_02.png "redux store image 02")
 
-![redux with connet and provider](https://github.com/jp-ryuji/ReactNativeReduxCasts_TechStack/blob/master/images/redux_with_connet_and_provider.png" "redux with connet and provider")
+![redux with connect and provider](https://github.com/jp-ryuji/ReactNativeReduxCasts_TechStack/blob/master/images/redux_with_connect_and_provider.png "redux with connect and provider")
